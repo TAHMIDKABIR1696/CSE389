@@ -1,0 +1,26 @@
+1. Introduction
+
+VangtiChai is an Android application designed to calculate the number of Bangladeshi Taka notes required to make change for a given amount. Users enter an amount using an on-screen numeric keypad, and the application displays the corresponding quantities of different denominations.
+
+The assignment focuses on Android user interface design, ConstraintLayout, activity lifecycle management, and adapting layouts to different screen sizes and orientations.
+
+2. Objectives
+
+The objectives of this project are:
+
+To implement a numeric keypad using Android layout components.
+
+To calculate change using Taka denominations of Tk 500, 100, 50, 20, 10, 5, 2, and 1.
+
+To display the entered amount and the calculated change in a clear interface.
+
+To create layouts suitable for portrait and landscape orientations.
+
+To preserve the entered amount and calculated change when the device orientation changes.
+
+To support both phone and tablet screen sizes.
+
+3. Technologies Used
+
+Android Studio
+
