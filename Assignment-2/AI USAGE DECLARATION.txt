@@ -1,0 +1,74 @@
+============================================================
+           AI USAGE DECLARATION
+============================================================
+
+Name: MD. TAHMID KABIR
+Student ID: 22301696
+Assignment: 2
+Date: 31.10. 26
+
+------------------------------------------------------------
+1. AI TOOLS USED (check all that apply)
+------------------------------------------------------------
+[ ] None
+[ ] ChatGPT
+[ ] GitHub Copilot
+[ ] Google Gemini
+[X] Claude
+[ ] Cursor
+[ ] Other: ________________
+
+------------------------------------------------------------
+2. PURPOSE OF AI USE (check all that apply)
+------------------------------------------------------------
+[X] Learning/understanding concepts
+[X] Debugging my code
+[X] Generating code snippets
+[X] Writing text content
+[X] Design/styling ideas
+[ ] Image generation
+[ ] Other: ________________
+
+------------------------------------------------------------
+3. DESCRIPTION OF AI USE
+------------------------------------------------------------
+Briefly describe what you used AI for and how:
+
+I used Claude (by Anthropic) as a helper for this assignment. I
+uploaded the assignment PDF and asked for step-by-step guidance
+to build the app in Android Studio. Claude generated the Kotlin
+and Jetpack Compose code for the navigation drawer, the broadcast
+receiver screens (custom and battery), the image pinch-to-zoom
+screen, and the video and audio screens. It also suggested a
+layout to match the UI in the assignment screenshots, and told me
+which file each piece of code goes into. When my project showed an "Unresolved reference 'material3'"
+error, I shared the error with Claude and it helped me find the
+likely cause (project setup and Gradle dependencies) and suggested
+fixes. Claude did not run or test the code. I ran the app myself in
+Android Studio to check that it works. [Add what you personally
+tested, fixed, or changed here.]
+
+------------------------------------------------------------
+4. AI-ASSISTED SECTIONS
+------------------------------------------------------------
+List specific files/sections where AI helped significantly:
+
+File: MainActivity.kt       Section: Navigation drawer, top bar, and navigation between screens
+File: BroadcastScreens.kt   Section: Spinner screen, custom input, custom receiver, battery receiver
+File: ImageScaleScreen.kt   Section: Image loading and pinch-to-zoom gesture
+File: VideoScreen.kt        Section: Video playback (VideoView and MediaController)
+File: AudioScreen.kt        Section: Audio playback (MediaPlayer with Play/Pause/Stop)
+File: build.gradle.kts      Section: Navigation, Coil, and Compose dependencies
+File: AndroidManifest.xml   Section: Internet permission
+
+------------------------------------------------------------
+5. DECLARATION
+------------------------------------------------------------
+I declare that:
+- This disclosure is complete and accurate
+- I understand all code in my submission
+- I take full responsibility for my submission
+
+Signature: ______TAHMID_________________
+Date: 31.10.26
+
